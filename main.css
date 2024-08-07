@@ -974,17 +974,17 @@ box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     padding: 5px 4px;
     border-radius: 4px;
     font-family: Rubik;
-font-size: 16px;
+font-size: 14px;
 font-weight: 400;
-line-height: 16.52px;
+line-height: 15.52px;
 color: #515151;
-margin-left: 10px;
+margin-left: 9px;
 width: 120px;
 }
 .navbar-search{
     display: block;
     /* max-width: 100%; */
-    padding: 10px 0px;
+    padding: 5px 0px;
     border-radius: 4px;
     border: 1px solid black;
 
